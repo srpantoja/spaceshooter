@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_explosion",
-    "path": "sprites/spr_explosion/spr_explosion.yy",
+    "name": "spr_explosion_enemy",
+    "path": "sprites/spr_explosion_enemy/spr_explosion_enemy.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Etc.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_explosion",
+  "name": "obj_explosion_enemy",
   "tags": [],
   "resourceType": "GMObject",
 }
